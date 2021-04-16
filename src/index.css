@@ -11,3 +11,113 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.add-question{
+  margin:30px 0px 0px 400px;
+  padding:20px 0px 0px 0px;
+  width:45%;
+  height:390px;
+
+}
+.add-option{
+  margin:10px 0px 50px 0px;
+}
+.add-btn{
+  margin-left: 41%;
+}
+.leaderboard-info{
+  margin:0 auto;
+  padding:20px 0px 0px 0px;
+  width:60%;
+  height:auto;
+  position:relative;
+}
+.leaderboard-img-div{
+  float:left;
+  border-right:3px solid black;
+  padding-right: 20px;
+  margin-right: 20px;
+}
+.leaderboard-img{
+border:5px groove black;
+}
+
+.leaderboard-text{
+  margin-left:150px;
+  margin-top:30px;
+  
+}
+.leaderboard-score{
+  padding:30px;
+  display:inline-block;
+  width:130px;
+  height:130px;
+  position:absolute;
+  right:10px;
+  bottom:0px;
+  font-size:22px;
+  font-weight: bold;
+  background-color: skyblue;
+}
+.overview-ul{
+  list-style-type:none;
+  margin:0px;
+}
+
+.overview-li{
+  margin:0px;
+}
+.overview-card{
+  border:2px groove lightskyblue;
+  margin:30px 30px 30px 30px;
+  padding:20px 20px 20px 20px;
+
+}
+
+.overview-text{
+  margin-left:50px;
+  display:inline-block;
+  width:150px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+.overview-btn{
+  margin-left:45%;
+  margin-bottom: 30px;
+}
+.pollview-card{
+  border:2px groove gold;
+  margin:0 auto;
+  padding:20px 0px 0px 0px;
+ width: 55%;
+}
+.pollview-img{
+  border:3px solid black;
+ 
+  
+}
+.option{
+  position: relative;
+  left:200px;
+  bottom:100px;
+}
+.pollview-btn{
+  margin-top:60px;
+}
+
+.bar-div{
+  margin:10px;
+  position: relative;
+  left: 180px;
+  bottom: 100px;
+}
+.bar{
+  width:370px;
+}
+.btn{
+  text-decoration: none;
+  color:white;
+}
+.nav-link{
+  color:black;
+}
